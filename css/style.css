@@ -1,0 +1,19 @@
+.rectangle{
+	width: 500px;
+	height: 300px;
+	background: #006a4e;
+	position: relative;
+	margin: 0px auto;
+}
+.circle{
+	width: 200px;
+	height: 200px;
+	background-color: #f42a41;
+	border-radius: 100%;
+	position: absolute;
+	top: 16.665%;
+	left: 27%;
+}
+.container{
+	width: 100%;
+}
